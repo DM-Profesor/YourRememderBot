@@ -1,0 +1,8 @@
+app = "note-reminder-bot"
+
+[build]
+  image = "python:3.10"
+
+[env]
+  TOKEN = "আপনার_BOT_TOKEN"
+  ADMIN_ID = "আপনার_ADMIN_ID"
